@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chirag | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Hey, I'm Chirag 👋</h1>
+    <p>Future BTech CSE (Data Science) wizard in the making.</p>
+  </header>
+  
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>This portfolio's gonna glow up as I do. Stay tuned. 🚧</p>
+    </section>
+    
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li>Nothing... yet 👀</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Built by Chirag with caffeine & chaos ☕</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
